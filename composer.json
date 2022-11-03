@@ -21,7 +21,7 @@
         }
     ],
     "require": {
-        "brandstudio/publishable": "^1.0"
+        "brandstudio/publishable": "dev-master"
     },
     "autoload": {
         "psr-4": {
